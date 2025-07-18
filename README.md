@@ -1,4 +1,4 @@
-##Hi there I'm Vaishnavi 👋  [![](https://visitcount.itsvg.in/api?id=vaishnavi-netizen&icon=0&color=0)](https://visitcount.itsvg.in)
+## Hi there I'm Vaishnavi 👋 [![](https://visitcount.itsvg.in/api?id=vaishnavi-netizen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **AI and ML Projects**
 - 🌱 I’m currently learning **DevOps and SpringBoot**
