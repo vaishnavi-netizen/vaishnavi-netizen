@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DevOps and SpringBoot**
 - 👯 I’m looking to collaborate on **ML Projects**
 - 💬 Ask me about **Technology and Collaboration**
-- 📫 How to reach me: [vaishnavipatade90@gmail.com](mailto:vaishnavipatade90@gmail.com)
+- 📫 [Email me](mailto:vaishnavipatade90@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: *I break things just to fix them. 🔧*
 
